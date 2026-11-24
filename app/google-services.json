@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928582602692",
+    "project_id": "gen-lang-client-0996310452",
+    "storage_bucket": "gen-lang-client-0996310452.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928582602692:android:e12ba7cfb44f89176fde91",
+        "android_client_info": {
+          "package_name": "com.aistudio.cutpulse.vkxrqn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrFEWmYxVOcL6LmO_IdzIkm6SH2ZgcuT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

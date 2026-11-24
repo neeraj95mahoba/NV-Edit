@@ -1,0 +1,6 @@
+{
+  "name": "NV Edit",
+  "description": "Flagship mobile studio video editor with 100% unlocked VIP features: 4K 60fps watermark-free export, AI auto-captions, chroma key & auto-cutout, beat-sync, motion blur, 32 pro transitions, PIP masks & blend modes, 3-way color wheels, and skin retouch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
