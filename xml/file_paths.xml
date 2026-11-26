@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="exported_videos" path="exports/" />
+    <files-path name="studio_exports" path="exports/" />
+    <files-path name="studio_recordings" path="recordings/" />
+    <cache-path name="studio_cache_recordings" path="recordings/" />
+</paths>
