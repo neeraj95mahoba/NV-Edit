@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NV Edit</string>
+    <string name="pro_unlocked_badge">प्रो अनलॉक्ड</string>
+    <string name="tab_projects">प्रोजेक्ट्स</string>
+    <string name="tab_photo_studio">फोटो</string>
+    <string name="tab_templates">टेम्पलेट्स</string>
+    <string name="tab_storyboards">स्टोरीबोर्ड</string>
+    <string name="tab_ai_lab">AI लैब</string>
+    <string name="tab_insights">इनसाइट्स</string>
+    <string name="action_new_project">नया प्रोजेक्ट</string>
+    <string name="action_plus_new_project">+ नया प्रोजेक्ट</string>
+    <string name="projects_section_title">सहेजे गए प्रोजेक्ट्स</string>
+    <string name="action_export">एक्सपोर्ट</string>
+    <string name="action_use_template">टेम्पलेट चुनें</string>
+    <string name="editor_auto_saved">ऑटो-सेव्ड</string>
+    <string name="editor_saving">सेव हो रहा है…</string>
+</resources>
